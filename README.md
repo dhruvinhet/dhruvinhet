@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">Hi , I'm Dhruvin Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 🎓 I'm currently pursuing my B.Tech in Computer Science (AI and Data Science) at MIT World Peace University, Pune. I’m passionate about building AI-driven systems that solve real-world problems and streamline daily life.<br><br> I specialize in Machine Learning, Deep Learning, Computer Vision, and LLM-based systems. My recent internships involved developing:<br>- A RAG-based AI System with vector databases and LLMs for enterprise search (Alchemyte Data Solutions)<br>- A Healthcare Symptom Checker Chatbot using fine-tuned models (Ahir Infotech)<br><br><br>I'm Currently working on Multi Agent AI Code Development System.
 
 
@@ -11,11 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=dhruvinhet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dhruvinhet&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvinhet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhruvinhet&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -28,4 +24,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dhruvinhet&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
